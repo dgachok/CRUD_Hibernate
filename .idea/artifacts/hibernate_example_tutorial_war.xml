@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="hibernate-example-tutorial:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="hibernate-example-tutorial.war">
+      <element id="artifact" artifact-name="hibernate-example-tutorial:war exploded" />
+    </root>
+  </artifact>
+</component>
